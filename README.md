@@ -1,5 +1,5 @@
 <h1>IOT-Arduino-CP1</h1> 
-
+<p><strong>Link do vídeo de explicação:</strong> http://bit.ly/video-explicacao-cp1</p>
 <h2>Detalhes do Projeto:</h2>
 
 <p>O pequeno projeto está sendo baseado na variação de temperatura, onde a cada pólo da temperatura é aceso o led correspondente à ela.</p>
